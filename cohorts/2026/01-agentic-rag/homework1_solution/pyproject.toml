@@ -1,0 +1,13 @@
+[project]
+name = "homework1-agentic-rag"
+version = "0.1.0"
+description = "LLM Zoomcamp 2026 — Homework 1 : Agentic RAG"
+requires-python = ">=3.12"
+dependencies = [
+    "gitsource",
+    "jupyter",
+    "minsearch",
+    "openai",
+    "python-dotenv",
+    "toyaikit",
+]
