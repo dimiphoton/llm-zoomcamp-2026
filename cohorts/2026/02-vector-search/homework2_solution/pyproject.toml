@@ -1,0 +1,16 @@
+[project]
+name = "homework2-vector-search"
+version = "0.1.0"
+description = "LLM Zoomcamp 2026 — Homework 2 : Vector Search"
+requires-python = ">=3.12"
+dependencies = [
+    "gitsource",
+    "huggingface-hub",
+    "ipykernel",
+    "jupyter",
+    "minsearch",
+    "numpy",
+    "onnxruntime",
+    "tokenizers",
+    "tqdm",
+]
